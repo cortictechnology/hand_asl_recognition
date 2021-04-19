@@ -37,7 +37,7 @@ In the models folder, 3 models are provided:
 
 Please refer to the training script in the training folder. We have provided all of the data we used for training the ASL recognition model.
 You can change the data or modify the training script to train your own model. The training script will save the trained model into a frozen PB model, 
-which can then be converted to run on the OAK-D hardware using OpenVino's mo.py scrip and myriad_compiler.
+which can then be converted to run on the OAK-D hardware using OpenVino's mo.py script and myriad_compiler.
 
 
 ## Credits
