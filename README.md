@@ -43,7 +43,7 @@ which can then be converted to run on the OAK-D hardware using OpenVino's mo.py 
 ## Credits
 * [Google Mediapipe](https://github.com/google/mediapipe)
 * [depthai_hand_tracker from geaxgx](https://github.com/geaxgx/depthai_hand_tracker)
-* [Pinto](https://github.com/PINTO0309) for the model convertion tools.
+* [Pinto](https://github.com/PINTO0309) for the model conversion tools.
 * [Kazuhito](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) for his pose history model.
 * [tello-gesture-control](https://github.com/kinivi/tello-gesture-control)
 * [David Lee](https://github.com/insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5)
